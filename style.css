@@ -1,0 +1,28 @@
+div {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+button {
+    width: 50px;
+    height: 45px;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button:hover {
+    background-color: rgb(206, 228, 248);
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.previousPosterior:hover {
+    color:rgb(33, 20, 216);
+}
+
+.number:hover {
+    color: rgb(189, 39, 12);
+}
